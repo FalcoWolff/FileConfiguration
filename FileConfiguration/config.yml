@@ -1,0 +1,7 @@
+messages:
+   heal: du wurdest geheilt
+   kill:
+      test: test
+      count: 1
+      message: du wurdest gekillt
+      count2: 4

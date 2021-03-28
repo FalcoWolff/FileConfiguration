@@ -40,7 +40,7 @@ public class FileConfiguration {
 				
 				config = generateConfiguration(lines);
 				
-				
+				reader.close();
 				
 			} catch (FileNotFoundException e) {
 				e.printStackTrace();

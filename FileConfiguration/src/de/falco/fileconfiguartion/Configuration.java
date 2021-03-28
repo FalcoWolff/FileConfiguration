@@ -15,6 +15,7 @@ public class Configuration {
 	
 	
 	
+	
 	/*
 	 * 
 	 */
@@ -136,6 +137,12 @@ public class Configuration {
 		
 		return buffer.toString();
 		
+	}
+	
+	
+	
+	public Map<String, Object> getValues() {
+		return values;
 	}
 	
 
